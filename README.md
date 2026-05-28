@@ -1,1 +1,0 @@
-# GKNU_GRAPHICS_26-1
