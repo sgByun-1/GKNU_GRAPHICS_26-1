@@ -1,3 +1,20 @@
+# 프로젝트 제목
+
+## 🎯 프로젝트 설명
+- 목표
+- 주요 기능
+
+## 🛠️ 기술 스택
+- React, Three.js, R3F
+
+## 💻 설치 & 실행
+```bash
+npm install
+npm run dev
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
