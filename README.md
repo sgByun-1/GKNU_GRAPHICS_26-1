@@ -15,6 +15,25 @@
 npm install
 npm run dev
 ```
+## 🎮 사용 방법
+- 오르골을 마우스로 클릭하면 오르골의 뚜껑을 닫고 열 수 있다.
+- 휠로 확대 또는 축소를 할 수 있다.
+- 마우스 드래그로 시점을 변환한다
+- 음악을 정지하고 싶으면 뚜껑을 닫고, 계속 재생을 원하면 열어놓는다.
+
+## 👥 팀원
+- 박인아: 기획, 발표자료 수정, 깃허브 작성
+- 변수경 : 코드 작성, 링크 배포, 깃허브 작성
+
+## 📸 스크린샷
+<img width="1085" height="950" alt="image (1)" src="https://github.com/user-attachments/assets/3736d5bd-5e36-418e-8c7d-45c16c981a24" />
+<img width="941" height="810" alt="image" src="https://github.com/user-attachments/assets/a2923b2a-fcf6-4396-bc37-e738e9c37da5" />
+
+## 📝 회고
+배운 점
+어려웠던 점
+개선할 점
+
 
 
 
